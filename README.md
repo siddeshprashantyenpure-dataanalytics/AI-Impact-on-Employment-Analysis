@@ -85,6 +85,8 @@ This project analyzes how Artificial Intelligence is transforming employment acr
 - Healthcare is relatively safer from automation.
 - Higher education generally reduces automation risk.
 
+## This project highlights the impact of AI on employment by analyzing automation risk, salary trends, and job demand. The interactive Power BI dashboard helps identify high-risk occupations, high-paying countries, and industry-level trends, demonstrating practical data analytics and visualization skills.
+
 ## Author
 **Siddhesh Prashant Yenpure**
 
