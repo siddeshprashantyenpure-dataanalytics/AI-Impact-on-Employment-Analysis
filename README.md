@@ -24,6 +24,33 @@ This project analyzes how Artificial Intelligence is transforming employment acr
 - Power BI
 - Git & GitHub
 
+## Skills Demonstrated
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Power BI Dashboard Design
+- DAX Measures
+- KPI Development
+- Business Intelligence
+- Python Programming
+- Pandas
+- SQL
+
+## Project Workflow
+
+1. Data Collection
+2. Data Cleaning using Python
+3. Exploratory Data Analysis
+4. Feature Engineering
+5. Power BI Dashboard Development
+6. Business Insights & Recommendations
+
+## How to Run
+
+1. Clone the repository.
+2. Open the PBIX file using Power BI Desktop.
+3. Use the CSV dataset if data refresh is required.
+
 ## Dashboard Pages
 
 ### Page 1 – Dashboard
